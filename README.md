@@ -17,6 +17,10 @@ Attempt at using Firebase with Unity
 * [Getting started with Realtime Database on Unity - Firecasts]
 (https://youtu.be/MbIH4QT3xF8)
 
+* [
+Firebase and Tasks, how to deal with asynchronous logic in Unity]
+(https://firebase.googleblog.com/2019/07/firebase-and-tasks-how-to-deal-with.html)
+
 * [Create Dynamic Links with Unity](https://firebase.google.com/docs/dynamic-links/unity/create)
 
 * [Simple Unity UI Tutorial - Changing the Color of a Cube with Sliders](https://youtu.be/Uw6XcLImDVk)
